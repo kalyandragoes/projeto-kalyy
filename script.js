@@ -9,7 +9,7 @@ const perguntas = [
       enunciado: "Para o sociologo Max Weber, os conflitos socias seriam resultados das posiçoes assimetricos que os individuos ocupam na sociedades.Ela chamou de close,estamento e partido ás diferentes esferas.Quais essas opçoes vocẽs conhecem?",
         alternativas: [
             {
-                texto: "Econômica !",
+                texto: "Econômica",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
